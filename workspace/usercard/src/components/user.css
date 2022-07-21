@@ -1,0 +1,20 @@
+.card-container {
+    margin: 30px;
+    background-color:bisque;
+  
+    width: 15rem;
+}
+
+.name{color:darkred;
+font-weight: bold;
+font-size: 20px;
+font-style: italic;text-transform: capitalize;}
+
+.image{width: 237px;height:200px;}
+
+.text{font-size: 15px;font-weight: bold;color: darkblue;}
+.link{color: darkred;font-weight: bold;}
+
+.link:hover{color: darkorange;} 
+.name:hover{color: darkgreen;}
+.text:hover{color: darkred;}
